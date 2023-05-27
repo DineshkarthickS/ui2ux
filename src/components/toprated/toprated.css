@@ -1,0 +1,11 @@
+.img_content{
+    width: 100px;
+    height: 100px;
+}
+.img_content > img {
+    width: 100%;
+}
+.rating{
+  line-height: 0.2rem !important;
+
+}

@@ -1,0 +1,15 @@
+.ban{
+    width: 600px;
+    border-radius: 1%;
+    overflow: hidden;
+}
+.ban > img {
+    width: 100%;
+}
+.friction{
+    line-height: 0.1rem;
+
+}
+.save{
+    width: 200px;
+}

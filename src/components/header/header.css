@@ -1,0 +1,38 @@
+.header{
+    border-bottom: 1px solid rgb(240, 237, 237);
+    
+    
+}
+
+
+.options {
+  background-color: #feec63 !important;
+}
+option {
+  padding-left: 2rem !important;
+}
+
+select {
+  outline: none;
+  padding: 0.4rem;
+  border: none;
+  border-radius: 0.3rem;
+}
+
+input {
+  background-color: rgb(244, 244, 244) !important;
+}
+.r-col > .first_p{
+   line-height: 0 !important;
+}
+.count{
+    background-color:rgb(107, 199, 107);
+    height: 0.7rem;
+    width: 0.7rem;
+    border-radius: 30%;
+    font-size: 0.5rem;
+    text-align: center;
+    color: #fff;
+    margin-left: 1.3rem;
+
+}

@@ -1,0 +1,33 @@
+.Nav {
+  font-size: 13px;
+  color: rgb(108, 106, 106);
+}
+.Nav1 {
+  font-size: 13px;
+  color: rgb(108, 106, 106);
+}
+.Nav2 {
+  font-size: 13px;
+  color: rgb(108, 106, 106);
+}
+.Nav3 {
+  font-size: 13px;
+  color: rgb(108, 106, 106);
+}
+.fbimg {
+  border-radius: 50px;
+}
+.containerdesign {
+  margin-top: 10px;
+  background-color: rgb(42, 41, 41);
+  font-size: 13px;
+}
+.con {
+  color: rgb(108, 106, 106);
+}
+.payment {
+  display: flex;
+}
+span {
+  color: white;
+}
